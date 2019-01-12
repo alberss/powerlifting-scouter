@@ -1,0 +1,8 @@
+[package]
+name = "powerpoints-server"
+version = "0.1.0"
+authors = ["Alberto Méndez Hernández <albertomendezhdz@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7"
